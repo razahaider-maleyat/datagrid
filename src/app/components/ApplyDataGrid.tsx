@@ -111,8 +111,7 @@ export default function ApplyDataGrid({ postsData }: PostsTableProps) {
           style={{
             width: "200px",
             height: "200px",
-            margin: "auto",
-            padding: 20,
+            padding: 50,
           }}
         />
       </Dialog>
